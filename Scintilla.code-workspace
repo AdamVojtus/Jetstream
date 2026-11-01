@@ -1,0 +1,16 @@
+{
+  "folders": [
+	{
+		"path": "../../../GitHub/Rocket-Engine-Punto/Scintilla"
+	},
+	{
+		"name": "Scintilla-System",
+		"path": "../../../GitHub/Rocket-Engine-Punto/Scintilla/Scintilla-System"
+	},
+	{
+		"name": "WeatherApp",
+		"path": "."
+	}
+],
+  "settings": {}
+}
