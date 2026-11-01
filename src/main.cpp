@@ -43,5 +43,5 @@ void setup() {
 void loop() {
   float temp = dht.readTemperature();
   float hum  = dht.readHumidity();
-
+  // more
 }
